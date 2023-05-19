@@ -6,4 +6,4 @@ function abc() {
 
 console.log(a);
 
-//output: 100;
+//output: 100
