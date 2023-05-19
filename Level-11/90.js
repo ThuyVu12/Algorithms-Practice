@@ -4,4 +4,4 @@ x[1] = 'World';
 x[2] = 100;
 console.log(x.length +' '+ x[0];
             
-//output: 3 Hello;
+//output: 3 Hello
