@@ -4,4 +4,9 @@ for(var num1=1; num1<=3; num1++) {
   }
 }
 
-// output: 'Dojo', 'Dojo', 'Dojo', 'Dojo', 'Dojo', 'Dojo'
+// output: Dojo
+//Dojo
+//Dojo
+//Dojo 
+//Dojo
+//Dojo
